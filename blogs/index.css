@@ -1,0 +1,15 @@
+header {
+    text-align: center;
+    display: inline-block;
+    background-color: grey;
+    margin-bottom: 96%;
+    margin-top: -3px;
+    padding-bottom: auto;
+    padding-top: auto;
+    size: 8px;
+    
+}
+
+main {
+    background-color: black;
+}
